@@ -75,3 +75,5 @@ https://github.com/kcchawla85/daily-journalv1/assets/73349039/dd366fbd-5788-459c
 
 Thank you for using Daily Journal Version 1! We hope you enjoy using our blog website prototype. Feel free to explore the code, submit issues, or contribute to make it even better in Version 2!
 
+# Link of Version 2: https://github.com/kcchawla85/daily-journalv1-v2/tree/blogappv2
+
